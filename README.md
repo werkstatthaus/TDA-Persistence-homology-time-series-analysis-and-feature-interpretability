@@ -30,7 +30,7 @@ Quick Start
     Launch the Streamlit app:
     Bash
 
-    streamlit run your_path\app.py
+    streamlit run app.py
 
     (Always use streamlit run rather than python app.py so Streamlit initializes an active ScriptRunContext.)
 
