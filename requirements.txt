@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+matplotlib
+plotly
+scipy
+scikit-learn
+ripser
+networkx
+gudhi
