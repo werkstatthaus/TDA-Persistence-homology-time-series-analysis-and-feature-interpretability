@@ -44,10 +44,12 @@ Typical Workflow
 
     Analyze dynamics, spectra & correlations: Plot topological and aligned raw/volatility series, inspect Welch PSD, rolling spectrograms, band power, and ACF, and run standard or lagged/signed interval correlation tests.
 
-Repository Structure 
 
-├── app.py                  # Main Streamlit multi-section application
-├── src/                  # TDA helpers, embeddings, PSD/ACF, correlation metrics and helper funcitons
-├── requirements.txt        # Python dependencies
-├── external data/          # contains 4D Stock log returns Dataset, for possible recreation of Gidea & Katz 2018 paper results 
-└── README.md               # Project documentation
+```markdown
+## Project Structure
+
+- `app.py` — Main Streamlit multi-section application
+- `src/` — TDA helpers, embeddings, PSD/ACF, correlation metrics, and utilities
+- `requirements.txt` — Python dependencies
+- `external data/` — 4D stock log returns dataset (for experimenting with / reproducing Gidea & Katz, 2018)
+- `README.md` — Project overview and usage guide
