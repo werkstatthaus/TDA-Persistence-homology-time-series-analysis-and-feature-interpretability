@@ -42,7 +42,7 @@ Typical Workflow
 
     Extract sliding-window TDA features: Run feature extraction over your target range (and export the resulting feature table as CSV).
 
-    Analyze dynamics, spectra & correlations: Plot topological and aligned raw/volatility series, inspect Welch PSD, rolling spectrograms, band power, and ACF, and run standard or lagged/signed interval correlation tests.
+    Analyze dynamics, spectra & correlations: Plot topological feature and aligned raw/volatility series, inspect PSD, rolling spectrograms, band power, ACF and run standard or lagged/signed interval correlation tests.
 
 
  Project Structure
